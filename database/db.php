@@ -25,7 +25,7 @@
 
 echo '
  <form enctype="multipart/form-data" 
-  action="http://localhost/database.php">       
+  action="http://localhost/db.php">       
 
  </form>
 </html>
